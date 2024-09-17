@@ -5,7 +5,8 @@ void main() {
     MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: const Text("Hello World! This is a test"),
+          title: const Text("Hello World! This is a test. "),
+          centerTitle: true,
         ),
       ),
     ),
